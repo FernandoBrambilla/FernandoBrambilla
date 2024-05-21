@@ -1,7 +1,7 @@
 # Fernando Henrique Brambilla
 
 
-## Desenvolvedor Back-end especializado em Java.
+## Desenvolvedor Back-end Java.
 
 ### Conecte-se comigo: 
 
